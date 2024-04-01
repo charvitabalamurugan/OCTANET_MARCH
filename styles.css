@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 180px;
+    padding: 0;
+    background-image: url('D:\chachu github\WhatsApp Image 2024-03-18 at 20.39.59_639ef0ef.jpg');
+    align-items: center;
+    margin-top: 280px;
+    background-size: cover;
+    background-position: cover;
+    
+  }
+  
+  .container {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(241, 241, 241, 0.8);
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #b3864f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #5ca1a9;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+  li:hover {
+    background-color: #e6e6e6;
+  }
